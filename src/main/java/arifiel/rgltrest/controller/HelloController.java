@@ -1,6 +1,9 @@
 package arifiel.rgltrest.controller;
 
 import org.springframework.web.bind.annotation.RestController;
+
+import arifiel.rgltrest.model.Coordinate;
+
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @RestController

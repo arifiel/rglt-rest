@@ -5,6 +5,7 @@
 ### STS ###
 .apt_generated
 .classpath
+.class
 .factorypath
 .project
 .settings

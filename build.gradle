@@ -35,4 +35,5 @@ dependencies {
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 	compile("org.springframework.boot:spring-boot-starter-web")
     testCompile("junit:junit")
+    compileOnly("org.projectlombok:lombok:1.16.10")
 }
